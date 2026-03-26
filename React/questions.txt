@@ -1,0 +1,2 @@
+what is Server-side rendering (SSR)?
+->Server-side rendering (SSR) is a technique that generates a fully rendered HTML page on the server for every request, delivering it immediately to the browser

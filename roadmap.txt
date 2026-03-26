@@ -1,0 +1,11 @@
+Interview practice roadmap.
+For web dev you have to know about the JS and its concept + how to write it.
+React fundamentals with latest version.
+Nodejs.
+MongoDb.
+SQL.
+Docker.
+DSA.
+Networking.
+English.
+Pretent to be fake (Most imp)

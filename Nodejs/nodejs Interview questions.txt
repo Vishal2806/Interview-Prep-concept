@@ -1,0 +1,2 @@
+1. What is a first class function in Javascript?
+>> In JavaScript, functions are first-class citizens, meaning they can be stored in variables, passed as arguments, and returned from other functions.
