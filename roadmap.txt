@@ -8,4 +8,4 @@ Docker.
 DSA.
 Networking.
 English.
-Pretent to be fake (Most imp)
+Pretent to be fake (Most imp)...
