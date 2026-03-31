@@ -1,0 +1,4 @@
+ORM = mongoose
+import mongoose from 'mongoose'
+
+mongoose.connect('env.process.db_url')
